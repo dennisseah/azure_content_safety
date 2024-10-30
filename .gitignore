@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+samples/test_image.jpg
+infrastructure/.terraform/**
+infrastructure/.*
+infrastructure/*.tfstate
+infrastructure/*.tfplan
+infrastructure/*.tfvars
 
 # C extensions
 *.so
